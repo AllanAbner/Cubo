@@ -1,0 +1,17 @@
+C:\projetos\Cubo\tests\Cubo.Tests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\projetos\Cubo\tests\Cubo.Tests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\projetos\Cubo\tests\Cubo.Tests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\projetos\Cubo\tests\Cubo.Tests\bin\Debug\netcoreapp2.0\Cubo.Tests.deps.json
+C:\projetos\Cubo\tests\Cubo.Tests\bin\Debug\netcoreapp2.0\Cubo.Tests.runtimeconfig.json
+C:\projetos\Cubo\tests\Cubo.Tests\bin\Debug\netcoreapp2.0\Cubo.Tests.runtimeconfig.dev.json
+C:\projetos\Cubo\tests\Cubo.Tests\bin\Debug\netcoreapp2.0\Cubo.Tests.dll
+C:\projetos\Cubo\tests\Cubo.Tests\bin\Debug\netcoreapp2.0\Cubo.Tests.pdb
+C:\projetos\Cubo\tests\Cubo.Tests\bin\Debug\netcoreapp2.0\Cubo.Core.dll
+C:\projetos\Cubo\tests\Cubo.Tests\bin\Debug\netcoreapp2.0\Cubo.Core.pdb
+C:\projetos\Cubo\tests\Cubo.Tests\obj\Debug\netcoreapp2.0\Cubo.Tests.csprojResolveAssemblyReference.cache
+C:\projetos\Cubo\tests\Cubo.Tests\obj\Debug\netcoreapp2.0\Cubo.Tests.csproj.CoreCompileInputs.cache
+C:\projetos\Cubo\tests\Cubo.Tests\obj\Debug\netcoreapp2.0\Cubo.Tests.AssemblyInfoInputs.cache
+C:\projetos\Cubo\tests\Cubo.Tests\obj\Debug\netcoreapp2.0\Cubo.Tests.AssemblyInfo.cs
+C:\projetos\Cubo\tests\Cubo.Tests\obj\Debug\netcoreapp2.0\Cubo.Tests.csproj.CopyComplete
+C:\projetos\Cubo\tests\Cubo.Tests\obj\Debug\netcoreapp2.0\Cubo.Tests.dll
+C:\projetos\Cubo\tests\Cubo.Tests\obj\Debug\netcoreapp2.0\Cubo.Tests.pdb

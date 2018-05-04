@@ -1,0 +1,9 @@
+C:\projetos\Cubo\src\Cubo.Core\bin\Debug\netstandard2.0\Cubo.Core.deps.json
+C:\projetos\Cubo\src\Cubo.Core\bin\Debug\netstandard2.0\Cubo.Core.dll
+C:\projetos\Cubo\src\Cubo.Core\bin\Debug\netstandard2.0\Cubo.Core.pdb
+C:\projetos\Cubo\src\Cubo.Core\obj\Debug\netstandard2.0\Cubo.Core.csproj.CoreCompileInputs.cache
+C:\projetos\Cubo\src\Cubo.Core\obj\Debug\netstandard2.0\Cubo.Core.AssemblyInfoInputs.cache
+C:\projetos\Cubo\src\Cubo.Core\obj\Debug\netstandard2.0\Cubo.Core.AssemblyInfo.cs
+C:\projetos\Cubo\src\Cubo.Core\obj\Debug\netstandard2.0\Cubo.Core.dll
+C:\projetos\Cubo\src\Cubo.Core\obj\Debug\netstandard2.0\Cubo.Core.pdb
+C:\projetos\Cubo\src\Cubo.Core\obj\Debug\netstandard2.0\Cubo.Core.csprojResolveAssemblyReference.cache

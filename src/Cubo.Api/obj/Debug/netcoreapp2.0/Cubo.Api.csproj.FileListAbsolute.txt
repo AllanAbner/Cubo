@@ -1,0 +1,14 @@
+C:\projetos\Cubo\src\Cubo.Api\bin\Debug\netcoreapp2.0\Cubo.Api.deps.json
+C:\projetos\Cubo\src\Cubo.Api\bin\Debug\netcoreapp2.0\Cubo.Api.runtimeconfig.json
+C:\projetos\Cubo\src\Cubo.Api\bin\Debug\netcoreapp2.0\Cubo.Api.runtimeconfig.dev.json
+C:\projetos\Cubo\src\Cubo.Api\bin\Debug\netcoreapp2.0\Cubo.Api.dll
+C:\projetos\Cubo\src\Cubo.Api\bin\Debug\netcoreapp2.0\Cubo.Api.pdb
+C:\projetos\Cubo\src\Cubo.Api\bin\Debug\netcoreapp2.0\Cubo.Core.dll
+C:\projetos\Cubo\src\Cubo.Api\bin\Debug\netcoreapp2.0\Cubo.Core.pdb
+C:\projetos\Cubo\src\Cubo.Api\obj\Debug\netcoreapp2.0\Cubo.Api.csproj.CoreCompileInputs.cache
+C:\projetos\Cubo\src\Cubo.Api\obj\Debug\netcoreapp2.0\Cubo.Api.AssemblyInfoInputs.cache
+C:\projetos\Cubo\src\Cubo.Api\obj\Debug\netcoreapp2.0\Cubo.Api.AssemblyInfo.cs
+C:\projetos\Cubo\src\Cubo.Api\obj\Debug\netcoreapp2.0\Cubo.Api.dll
+C:\projetos\Cubo\src\Cubo.Api\obj\Debug\netcoreapp2.0\Cubo.Api.pdb
+C:\projetos\Cubo\src\Cubo.Api\obj\Debug\netcoreapp2.0\Cubo.Api.csprojResolveAssemblyReference.cache
+C:\projetos\Cubo\src\Cubo.Api\obj\Debug\netcoreapp2.0\Cubo.Api.csproj.CopyComplete
